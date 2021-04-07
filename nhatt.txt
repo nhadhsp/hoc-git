@@ -1,3 +1,2 @@
 nha11
-<<<<<<< HEAD
 nha22 conflig
